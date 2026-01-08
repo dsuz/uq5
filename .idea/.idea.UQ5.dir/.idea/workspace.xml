@@ -8,7 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359c9fec-1daf-45d0-8ecc-485f7a9c4fa6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Source/UQ5/Spawner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UQ5/Spawner.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Characters/Mannequins/Animations/UQ5/AM_Rolling.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Input/Actions/IA_Dodge.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UnrealQuest5/Blueprints/BP_UQ5_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Blueprints/BP_UQ5_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UnrealQuest5/Characters/Mannequins/Animations/UQ5/AS_Rolling.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Characters/Mannequins/Animations/UQ5/AS_Rolling.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UnrealQuest5/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Input/IMC_Default.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +156,7 @@
       <workItem from="1767383376752" duration="940000" />
       <workItem from="1767832905408" duration="13886000" />
       <workItem from="1767863635505" duration="680000" />
-      <workItem from="1767880072783" duration="120000" />
+      <workItem from="1767880072783" duration="1493000" />
     </task>
     <servers />
   </component>
