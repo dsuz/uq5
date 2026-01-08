@@ -37,7 +37,7 @@ void ASpawner::Tick(float DeltaTime)
 			if (IsValid(SpawnPawn))
 			{
 				auto SpawnedPawn = GetWorld()->SpawnActor<APawn>(SpawnPawn, GetActorLocation(), GetActorRotation(), SpawnInfo);
-				UE_LOG(LogTemp, Log, TEXT("Spawn remainds: %d"), --GameMode->SpawnCount);
+				UE_LOG(LogTemp, Log, TEXT("Spawn remains: %d"), --GameMode->SpawnCount);
 			}
 			else
 			{
