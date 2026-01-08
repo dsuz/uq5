@@ -8,15 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="359c9fec-1daf-45d0-8ecc-485f7a9c4fa6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/UQ5.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UQ5/MyActor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UQ5/MyActor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UQ5/UQ5.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UQ5/UQ5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UQ5/UQ5.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UQ5Editor.Target.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/BP_MyGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/BP_PawnSpawner.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WBP_GameClear.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/UQ5/MyGameMode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/UQ5/MyGameMode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/UQ5/Spawner.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/UQ5/Spawner.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UQ5.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UQ5.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UnrealQuest5/Blueprints/BP_UQ5_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Blueprints/BP_UQ5_Enemy.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/UnrealQuest5/Maps/UQ5_TemplateMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UnrealQuest5/Maps/UQ5_TemplateMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UQ5.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/UQ5.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,8 @@
     <setting file="cidr-memory-view://3" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/Program Files/Epic Games/UE_5.7/Engine/Source/UnrealEditor.Target.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/Program Files/Epic Games/UE_5.7/Engine/Source/UnrealGame.Target.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/UQ5/MyGameMode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/UQ5/MyGameMode.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -143,6 +147,14 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration default="true" type="Uproject" factoryName="rider.uproject">
+      <option name="DEFAULT_PROJECT_PATH" value="" />
+      <option name="PROJECT_FILE_PATH" value="" />
+      <option name="AUTO_SELECT_PRIORITY" value="0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -156,6 +168,7 @@
       <workItem from="1767382519005" duration="376000" />
       <workItem from="1767383073901" duration="289000" />
       <workItem from="1767383376752" duration="940000" />
+      <workItem from="1767832905408" duration="13886000" />
     </task>
     <servers />
   </component>
