@@ -33,6 +33,8 @@ public:
 	virtual void Tick(float DeltaSeconds) override;	
 	UFUNCTION(BlueprintCallable)
 	void Init(int32 KillCountForStageClear);
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
+	void GameOver();
 	
 private:
 	float Timer = 0.0f;
