@@ -11,11 +11,13 @@ ASpawner::ASpawner()
 void ASpawner::BeginPlay()
 {
 	Super::BeginPlay();
+	Timer = SpawnInterval;
 }
 
 void ASpawner::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	if (!bActive) return;
 	Timer += DeltaTime;
 	
 	if (Timer > SpawnInterval)

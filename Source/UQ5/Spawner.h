@@ -24,6 +24,8 @@ public:
 	/// スポーンさせるポーン
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	TSubclassOf<APawn> SpawnPawn = nullptr;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool bActive = true;
 	
 private:
 	float Timer = 0.0f;
